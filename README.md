@@ -17,6 +17,8 @@ Esta atividade tem como objetivo aplicar tal método para encontrar a relação 
 
 <p align="justify"> O método Arc-Length impõe uma restrição adicional ao sistema:
 
+(Δu)** T
+
 onde:
 
 - : incremento de deslocamento
