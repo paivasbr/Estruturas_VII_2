@@ -71,3 +71,21 @@ def calcular_matriz_rigidez(u1, u2, u3, E0, S, L, n):
 
 E aplica a restrição de arco. Isso foi implementado em uma rotina de Newton-Raphson adaptada (Crisfield, 1991).</p>
 
+### **4 _Resultados e Discussões_**
+
+
+
+
+
+
+
+### **5 _Conclusão_**
+
+<p align="justify">O método Arc-Length mostrou-se eficaz para traçar a curva completa força-deslocamento em uma barra com rigidez não linear. A técnica permite superar limitações de métodos incrementais simples, sendo apropriada para problemas com perda de estabilidade. O uso computacional do Python proporcionou uma visualização clara e controle total dos parâmetros.</p>
+
+### **6 _Referências_**
+
+
+
+
+
