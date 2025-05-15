@@ -85,7 +85,15 @@ E aplica a restrição de arco. Isso foi implementado em uma rotina de Newton-Ra
 
 ### **6 _Referências_**
 
-
-
-
-
+```ruby
+BATHE, K. J. Finite Element Procedures. Prentice Hall, 1996.
+```
+```ruby
+CRISFIELD, M. A. Non-linear Finite Element Analysis of Solids and Structures. Wiley, 1991.
+```
+```ruby
+REDDY, J. N. An Introduction to Nonlinear Finite Element Analysis. Oxford University Press, 2019.
+```
+```ruby
+UNIVERSIDADE XYZ. Notas de aula da disciplina de Estruturas II. Prof. Nome do Docente, 2025.
+```
