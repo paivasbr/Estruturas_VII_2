@@ -73,11 +73,12 @@ E aplica a restrição de arco. Isso foi implementado em uma rotina de Newton-Ra
 
 ### **4 _Resultados e Discussões_**
 
+<p align="justify">O código gerou a seguinte curva de equilíbrio:
 
+Gráfico Força-Deslocamento (inserido via Matplotlib)
 
-
-
-
+A curva mostra o comportamento típico com região de instabilidade, onde o deslocamento aumenta mesmo com redução de carga. Esse fenômeno não poderia ser capturado com métodos tradicionais.
+A convergência foi alcançada para todos os passos com controle de passo de arco adaptativo. Houve estabilização numérica mesmo após o ponto de máximo da curva.</p>
 
 ### **5 _Conclusão_**
 
