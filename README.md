@@ -50,7 +50,7 @@ Esse método permite rastrear a curva equilíbrio mesmo após pontos de instabil
 - Número máximo de passos: 200
 
 ### **3 _Implementação Computacional_**
-##### **3.1 _Trechos Principais do Código_**
+#### **3.1 _Trechos Principais do Código_**
 
 ```ruby
 def calcular_matriz_rigidez(u1, u2, u3, E0, S, L, n):
@@ -63,7 +63,7 @@ def calcular_matriz_rigidez(u1, u2, u3, E0, S, L, n):
     ])
 ```
 
-##### **3.2 _Algoritmo de Arc-Length_**
+#### **3.2 _Algoritmo de Arc-Length_**
 
 <p align="justify"> A cada passo, o sistema resolve:
 
